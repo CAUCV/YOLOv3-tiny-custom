@@ -8,4 +8,4 @@
 > 3. subdivisions 값 하향 모델: width & height = 416 / subdivisions = 4 
 
 <img src="https://github.com/CAUCV/YOLOv3-tiny-custom/blob/main/result.PNG?raw=true" width="800px">
-- [Mask detection 학습 결과](https://drive.google.com/drive/folders/1WIMAW8P3mh8zlINm_OFZR-xNFQpx-uM6?usp=sharing)
+[Mask detection 학습 결과](https://drive.google.com/drive/folders/1WIMAW8P3mh8zlINm_OFZR-xNFQpx-uM6?usp=sharing)
